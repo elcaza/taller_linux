@@ -1,0 +1,16 @@
+# 
+
+deb cdrom:[Debian GNU/Linux 10.10.0 _Buster_ - Official amd64 DVD Binary-1 20210619-16:12]/ buster contrib main
+
+deb cdrom:[Debian GNU/Linux 10.10.0 _Buster_ - Official amd64 DVD Binary-1 20210619-16:12]/ buster contrib main
+
+# deb http://security.debian.org/debian-security buster/updates main contrib
+# deb-src http://security.debian.org/debian-security buster/updates main contrib
+
+# buster-updates, previously known as 'volatile'
+# A network mirror was not selected during install.  The following entries
+# are provided as examples, but you should amend them as appropriate
+# for your mirror of choice.
+#
+# deb http://deb.debian.org/debian/ buster-updates main contrib
+# deb-src http://deb.debian.org/debian/ buster-updates main contrib

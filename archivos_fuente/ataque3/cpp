@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+echo "`date`" > /tmp/u_log
